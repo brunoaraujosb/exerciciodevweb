@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aqua;
+}
+#cabecalho {
+    width: 100%;
+
+}
+#areacima {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+#areacima img{
+    width: 7cm;
+}
+#areacima h1{
+    color: blueviolet;
+    padding: 10px;
+}
+#areacima #menu {
+    background-color: aliceblue;
+    text-align: center;
+    text-align: center;
+    width: 100%;
+    height: 1cm;
+}
+#menu a {
+    padding: 15px;
+    margin: 5px;
+    text-decoration: none;
+}
+.areacentral{
+    margin: 0 auto;
+    text-align: center;
+    height: 840px;
+    
+}
+.areacentral h3 {
+    padding: 10px;
+    color: blueviolet;
+
+}
+.footer {
+    text-align: center;
+    color: blueviolet;
+    clear: both;
+}
+.textosobre h3, p{
+    color: blueviolet;
+    padding: 10px 3px;
+}
+.pedidos, .pedidos2, .form{
+    padding-top: 15px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.pedidos2{
+    height: 640px;
+}
+.pedidos img{
+    width: 120px;
+   
+}
+.pedidos2 img{
+    width: 120px;
+    
+}
+.img1, .img2, .img3{
+    width: 33%;
+    float: left;
+}
+
+.img4, .img5, .img6{
+    width: 33%;
+    float: left;
+}
+.form{
+    padding-top: 15px;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+form {
+    height: 640px;
+
+}
+/*
+#areabaixo {
+    width: 100%;
+    background-color: aliceblue;
+    height: 40px;
+    text-align: center;
+    justify-content: center;
+}
+#areabaixo a{
+    text-decoration: none;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+    color: blueviolet;
+}
+
